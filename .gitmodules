@@ -1,0 +1,8 @@
+[submodule "website-templator-api"]
+	path = website-templator-api
+	url = https://github.com/tbreitenfeldt/website-templator-api
+	branch = master
+[submodule "website-templator-ui"]
+	path = website-templator-ui
+	url = https://github.com/tbreitenfeldt/website-templator-ui
+	branch = master
